@@ -6,7 +6,7 @@
 
 int main()
 {
-	std::cout << "Hello  World2\n";
+	std::cout << "Hello  World, fetch me\n";
 	//stuff stuff
     return 0;
 }
